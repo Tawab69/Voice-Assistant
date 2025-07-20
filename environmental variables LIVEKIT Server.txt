@@ -1,0 +1,4 @@
+environmental variables
+LIVEKIT_URL=wss://voice-assistant-spldlj7j.livekit.cloud
+LIVEKIT_API_KEY=API48rx449ydUh4
+LIVEKIT_API_SECRET=FTtZz2ahvOIlSl0vHMMDHzASPSNRlciucFY2XfSohqb

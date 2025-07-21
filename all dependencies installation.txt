@@ -1,0 +1,13 @@
+Installation Instructions:
+To set up the required dependencies, execute the following Python commands from within the project directory:
+
+	# Create a virtual environment
+	python -m venv [env_name]
+
+	# Activate the virtual environment
+	.\[env_name]\Scripts\activate
+
+	# Install dependencies from requirements.txt
+	pip install -r .\requirements.txt
+
+Once completed, your environment will be fully configured and ready for development.
